@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ai-lyrics-writer",
+  "private_key_id": "b32caf71504979ab73f1a4fb44c66caaa19f2cd2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDhVe8CKCpMJuxE\nmKzJ1aR9cSwMJRuD389eI0+9FKJTB2SNylkz2grWMET6CudThEOYwYAAF03TMx+Y\njduxqbKKNqG1VBmxAdCsL/5e3rdFhBkTLxqHe2sN5MWEEfh3D7v5cyQ09E2Ioyi1\nvBUCqDtEM+0AM7rDTkL4W4NNNr4nkILaU/EJtO/M7uVINJeOgzYttog6KNpvHvCz\n0TTeppxSE1jejcZcbO+39nd63Mi9wslDC7ApBhYAq6Wpjbba0QaTde+e1TFRWlgX\nNjbJlvbYJz80ncb2kT0q4GK5/x6myEmEJa+uePmrPRnOgIt46s+WeYusPMKxJIAe\ndAwjp1hvAgMBAAECggEAM98y1nXFiuM452+X8xx9sazQPXl7VIe8dki9reKmnWNp\nx+QpVbDfZsAU2NSSvNyJLQx6OUskDLbLkrQxOzw7z+pUnmfeRCuNTF39+fveB6Ap\nn4tr2X1VPw0HVOhIIKxcEsfpMVF92bLph7Bky8hLYF9tsuq1lwkYjJCQcMFl07hX\nYjZ3gC4Fd9LWUccZl7LyDktApAaNcpSp6ZePlvb8nxpLBkYN9kNUFRGKwfDr2VEd\nNTEovqm9yFKLjy4TT4lcHIFNVXzN30i00QxKbcvW8XfneRRppD7JiSoHpnzsHm99\nX30LbUI5Rq+wcUyLFKyImMCCWZkabmM8JTfTfaqXTQKBgQD6Y795YpRY5haF948k\n0+Z+bYYmMIHonmg5KKbJGPB332yVu7Mmz+OM8zhfoLQ07rG8EOs3Yxw4Wswot2mI\n00nnf+gDEeMY78mSJ1XGPE2dH2whJZjh9KRK/JDXbkH45DjGtpUiJ0RMhktVgGJ6\ngA8gYrXdH9/Zo2ClgAlDyU4rzQKBgQDmYnl1OUvZVCuK45SiX0+SvwV6ef/WD38X\n42DnnmblhHqFu73dlw1qDvHvk7WeAvU2uvLaKP6i9dDlmw4agUAuRjUwN5/IKwSX\nlRd8pAUqbJ6yFh0wrWEx0JUV4T3JSEo7BEyI6FDTt0i2e/eo0FfZXWdwCIqftMt0\nmDlXJ3LxKwKBgQCosa99HpeH1WzzUTjVvRYbs7qf3CqKCL97UxIbhnvsp1DHCLDI\nw2MxwWQHuYPv7ak9ZcCzjkijBzlpbTjjAEdYeupbtx9j25nYqDu31UUNSPBW3LfF\n9EcEZmlHW3eDMm+2IakUW5Q+YnQ65MZ0dfa7AQY6NpFgVhx1JHAZhXTvOQKBgA2+\ntkxeHL5cnTRuG4IMeazhpKwH91GIHycHs9JdyvnKi5zK9KrxxiUbuyd2ApHoz0Ry\npuaJJ5gFXm80bwT5zSB1o9q6ltfUaTO5+2q+RmifjmBFnXw3++KC9UIW7B7EJ1ma\nCg7o/VmER9xLTR1PQM6BGhi/CbY5jSHpqxIeEmd9AoGBAMKgLcxtdtrLzP0SU2Eu\n+JCF7trL+IIA6fes1/tYR222eedKFOLDbY8kz+gVcs8zfGhZCKyZPS0ZPa5rxhW2\n21mDke6bYYSbZl9u6G8oDLaAv4fzKb5333+9ON3GgiBGefDrB/d9nI2JauOeDbIC\nzlL8CF1VZ5kS9cjg/zVzCKK0\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@ai-lyrics-writer.iam.gserviceaccount.com",
+  "client_id": "109528922594618142820",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40ai-lyrics-writer.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
